@@ -22,3 +22,9 @@
 .btn-flat {
     color: #8a6565;
 }
+.account-header {
+    margin: 20px;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    line-height: 0px;
+}
