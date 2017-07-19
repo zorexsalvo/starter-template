@@ -13,10 +13,8 @@
 	font-size: inherit;
 }
 #login-banner {
-  background-color: #FFF;
 }
 #login-banner .header {
-  color: #FFF;
   margin-top: 50px;
 }
 .btn-flat {
@@ -27,4 +25,10 @@
     margin-left: 0px !important;
     margin-right: 0px !important;
     line-height: 0px;
+}
+html {
+    background-color: #1b5e20;
+}
+.container {
+    width: 75%;
 }
