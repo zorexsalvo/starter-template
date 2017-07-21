@@ -29,3 +29,15 @@
 .container {
     width: 75%;
 }
+.recent-transactions {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: -10px;
+}
+.avatar {
+    padding-left: 20px !important;
+    min-height: 0px !important;
+}
+.secondary-content {
+    color: black;
+}
